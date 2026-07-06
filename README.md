@@ -1,24 +1,14 @@
-# iozkandev.github.io
+# Welcome
 
-# Tasbih & Dhikr Counter – Support Page
+You can find my apps below.
 
-Welcome to the official support page for **Tasbih & Dhikr Counter**.  
-This app helps you keep track of your dhikr with both a **traditional tasbih view** and a **modern digital counter view**.
+## 📂 Projects
 
----
-
-## 📱 App Features
-- Traditional tasbih simulation  
-- Digital dhikr counter  
-- Save and manage multiple dhikr sessions  
-- Customizable vibration & sound settings  
+| Project | Description | Link |
+|---------|-------------|------|
+| 🌙 **Sakina** | Islamic apps and tools | https://blabala.github.io/sakina |
+| 💪 **Gym Log** | Workout tracking application | https://blabala.github.io/gym-log |
 
 ---
 
-## ❓ Support & Contact
-If you need help or have feedback, please reach out:  
-📧 **ibrahimozkan314@icloud.com**
-
----
-
-© 2025 İbrahim Özkan. All rights reserved.
+Built with ❤️ using GitHub Pages.
