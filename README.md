@@ -6,8 +6,8 @@ You can find my apps below.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🌙 **Sakina** | Islamic apps and tools | https://blabala.github.io/sakina |
-| 💪 **Gym Log** | Workout tracking application | https://blabala.github.io/gym-log |
+| 🌙 **Sakina** | Islamic apps and tools | https://iozkandev.github.io/sakina |
+| 💪 **Gym Log** | Workout tracking application | https://iozkandev.github.io/gym-log |
 
 ---
 
